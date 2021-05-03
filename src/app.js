@@ -18,7 +18,7 @@ import fileRoute from './routes/file';
 
 const whiteList = [
   'https://apialunos.jac0.dev',
-  'http://localhost:3000',
+  'http://localhost:3010',
 ];
 
 const corsOptions = {
