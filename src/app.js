@@ -17,8 +17,8 @@ import tokenRoute from './routes/token';
 import fileRoute from './routes/file';
 
 const whiteList = [
-  'https://apialunos.jac0.dev',
-  'http://localhost:3010',
+  'https://apialunos.jaac0.dev',
+  'http://localhost:3020',
 ];
 
 const corsOptions = {
