@@ -17,7 +17,7 @@ import tokenRoute from './routes/token';
 import fileRoute from './routes/file';
 
 const whiteList = [
-  'https://apialunos.jaac0.dev',
+  'https://apialunos.jac0.dev',
   'http://localhost:3020',
 ];
 
